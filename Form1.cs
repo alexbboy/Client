@@ -131,6 +131,12 @@ namespace MulticastClient
                 textBox3.Text += Environment.NewLine + "Не удалось сохранить " + filename;
                 textBox3.Text += ": указан недопустимый путь" + Environment.NewLine + Environment.NewLine + path;
             }
+            catch (PathTooLongException)
+            {
+                textBox3.Text += DateTime.Now;
+                textBox3.Text += Environment.NewLine + "Не удалось сохранить " + filename;
+                textBox3.Text += ": указан недопустимо длинный путь" + Environment.NewLine + Environment.NewLine + path;
+            }
             button3.Enabled = true;
         }
     }

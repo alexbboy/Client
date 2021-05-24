@@ -8,3 +8,13 @@ C:\Users\Ксения Лучкова\source\repos\MulticastClient\obj\Debug\Mult
 C:\Users\Ксения Лучкова\source\repos\MulticastClient\obj\Debug\MulticastClient.csproj.CoreCompileInputs.cache
 C:\Users\Ксения Лучкова\source\repos\MulticastClient\obj\Debug\MulticastClient.exe
 C:\Users\Ксения Лучкова\source\repos\MulticastClient\obj\Debug\MulticastClient.pdb
+C:\Users\Ксения Лучкова\OneDrive\Документы\6 семестр\Сети ЭВМ\Курсовая\MulticastClient\bin\Debug\MulticastClient.exe.config
+C:\Users\Ксения Лучкова\OneDrive\Документы\6 семестр\Сети ЭВМ\Курсовая\MulticastClient\bin\Debug\MulticastClient.exe
+C:\Users\Ксения Лучкова\OneDrive\Документы\6 семестр\Сети ЭВМ\Курсовая\MulticastClient\bin\Debug\MulticastClient.pdb
+C:\Users\Ксения Лучкова\OneDrive\Документы\6 семестр\Сети ЭВМ\Курсовая\MulticastClient\obj\Debug\MulticastClient.csprojAssemblyReference.cache
+C:\Users\Ксения Лучкова\OneDrive\Документы\6 семестр\Сети ЭВМ\Курсовая\MulticastClient\obj\Debug\MulticastClient.Form1.resources
+C:\Users\Ксения Лучкова\OneDrive\Документы\6 семестр\Сети ЭВМ\Курсовая\MulticastClient\obj\Debug\MulticastClient.Properties.Resources.resources
+C:\Users\Ксения Лучкова\OneDrive\Документы\6 семестр\Сети ЭВМ\Курсовая\MulticastClient\obj\Debug\MulticastClient.csproj.GenerateResource.cache
+C:\Users\Ксения Лучкова\OneDrive\Документы\6 семестр\Сети ЭВМ\Курсовая\MulticastClient\obj\Debug\MulticastClient.csproj.CoreCompileInputs.cache
+C:\Users\Ксения Лучкова\OneDrive\Документы\6 семестр\Сети ЭВМ\Курсовая\MulticastClient\obj\Debug\MulticastClient.exe
+C:\Users\Ксения Лучкова\OneDrive\Документы\6 семестр\Сети ЭВМ\Курсовая\MulticastClient\obj\Debug\MulticastClient.pdb
